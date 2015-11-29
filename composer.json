@@ -1,0 +1,11 @@
+{
+    "name": "hofkens/hello",
+    "description": "say hello",
+    "authors": [
+        {
+            "name": "Tom Hofkens",
+            "email": "Tom.Hofkens@sji.be"
+        }
+    ],
+    "require": {}
+}
